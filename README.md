@@ -1,6 +1,6 @@
 # Análise de Certificados
 
-###*1ª parte:*
+###1ª parte:
 
 Vasculha zips em um caminho local, abrindo-os e analisando seu conteúdor.
 
@@ -12,7 +12,7 @@ Retorna na planilha o nome do arquivo formatado e um count com a quantidade de c
 
 
 
-###*2ª parte:* (Desenvolvendo)
+###2ª parte: (Desenvolvendo)
 
 Analisar a primeira planilha e identificar em cada sheet onde possui células com nomes iguais.
 
