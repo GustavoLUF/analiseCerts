@@ -1,6 +1,6 @@
 # Análise de Certificados
 
-1ª parte:
+*1ª parte:*
 
 Vasculha zips em um caminho local, abrindo-os e analisando seu conteúdor.
 
@@ -10,7 +10,7 @@ Analisa a data no nome do arquivo e encaminha ele para a sheet do seu devido mê
 
 Retorna na planilha o nome do arquivo formatado e um count com a quantidade de certificados dentro dele.
 
-2ª parte: (Desenvolvendo)
+*2ª parte:* (Desenvolvendo)
 
 Analisar a primeira planilha e identificar em cada sheet onde possui células com nomes iguais.
 
